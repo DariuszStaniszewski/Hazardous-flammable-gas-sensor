@@ -14,3 +14,6 @@ LED R (czerwony) PTB 11
 LED Y (żółty) PTB 6
 LED G (zielony) PTB 7
 BUZZER PTA 11
+
+Działanie układu:
+https://youtu.be/rxTESSsUlcw
