@@ -16,4 +16,4 @@ LED G (zielony) PTB 7
 BUZZER PTA 11
 
 Działanie układu:
-https://youtu.be/rxTESSsUlcw
+YT: youtu.be/rxTESSsUlcw
